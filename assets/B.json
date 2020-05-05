@@ -1,0 +1,247 @@
+[
+    {
+        "0": "Ba a bambance barcin makaho da... ",
+        "1": "Ba a bambance barcin makaho da... ",
+        "2": "Ba a ɓari a...  ",
+        "3": "Ba a ɓoye wa abokin...  ",
+        "4": "Ba a bori da...  ",
+        "5": "Ba a Rufa ba...  ",
+        "6": "Ba a raba hanta...  ",
+        "7": "Ba a raba...  ",
+        "8": "Ba a rasa...  ",
+        "9": "Ba a rawa...  ",
+        "10": "Ba a rufe mu... ",
+        "11": "Ba a nan take ba...",
+        "12": "Ba a nunawa...",
+        "13": "Ba a nan gizo...",
+        "14": "Ba a nitso...",
+        "15": "Ba a shan zuma...",
+        "16": "Ba a sake wa tuwo...",
+        "17": "Ba a zaci farin goro...",
+        "18": "Ba a yabon dan kuturu...",
+        "19": "Ba a yin tuya...",
+        "20": "Ba a mugun sarki...",
+        "21": "Ba a mai da...",
+        "22": "Ba a haɗa gudu da...",
+        "23": "Ba a jaka...",
+        "24": "Ba a fafe gora...",
+        "25": "Ba a fasa randar ɗaki...",
+        "26": "Ba a wasa da furar gona...",
+        "27": "Ba a wasoson bishiya...",
+        "28": "Ba a hawa sama...",
+        "29": "Ba a shegiya...",
+        "30": "Ba a shiga kasuwa ba ilimi...",
+        "31": "Ba aure ke da wuya ba...",
+        "32": "Badan mai tsummin tsira ba...",
+        "33": "Ba daga uwa ba..."
+    },
+    
+    {
+        "0": {
+            "a": "gilashinsa a sanye",
+            "b": "idonsa a buɗe",
+            "c": "dariyar sa a fili"
+        },
+        "1": {
+            "a": "gilashinsa a sanye",
+            "b": "idonsa a buɗe",
+            "c": "dariyar sa a fili"
+        },
+        "2": {
+            "a": "kwashe da ƙasa ",
+            "b": "ci riba",
+            "c": "kwashe duka"
+        },
+        "3": {
+            "a": "cin mushe kai",
+            "b": "wasa ƙwallo",
+            "c": "dambe hannu"
+        },
+        "4": {
+            "a": "gigin jiki",
+            "b": "kaurin jiki",
+            "c": "sanyin jiki"
+        },
+        "5": {
+            "a": "an ta da kai",
+            "b": "wanke kai",
+            "c": "shiga da kai"
+        },
+        "6": {
+            "a": "da ruwa",
+            "b": "da jini",
+            "c": "da tsoka"
+        },
+        "7": {
+            "a": "abokan juna",
+            "b": "makaho da sanda",
+            "c": "harshe da haƙori"
+        },
+        "8": {
+            "a": "tuwo da miya",
+            "b": "nono a ruga",
+            "c": "shikafa da wake"
+        },
+        "9": {
+            "a": "sirikin mata",
+            "b": "surukar miji",
+            "c": "da haragido"
+        },
+        "10": {
+            "a": "da bayan hannu",
+            "b": "idanuwan mu",
+            "c": "wayan mu"
+        },
+        "11": {
+            "a": "a can take ai alaji",
+            "b": "an danne bunsuru ta ka",
+            "c": "an danne bodari ta ka"
+        },
+        "12": {
+            "a": "hasbiya baka",
+            "b": "kurciya baka",
+            "c": "hankaka baka"
+        },
+        "13": {
+            "a": "ke wankan ba",
+            "b": "ke kashin ba",
+            "c": "ke saƙar ba"
+        },
+        "14": {
+            "a": "a tekun Fasha",
+            "b": "a masaki",
+            "c": "a rijiyar bakin kasuwa"
+        },
+        "15": {
+            "a": "sai an sha harbi",
+            "b": "sai an sha zaƙi",
+            "c": "a banza"
+        },
+        "16": {
+            "a": "suna",
+            "b": "miya",
+            "c": "kwano"
+        },
+        "17": {
+            "a": "zai tsutsa ba",
+            "b": "zai lalace ba",
+            "c": "zai yaushi ba"
+        },
+        "18": {
+            "a": "sai ya shekara da yatsu",
+            "b": "sai an ganshi da yatsu",
+            "c": "sai ya shekara 40 da yatsu"
+        },
+        "19": {
+            "a": "a mance da mai",
+            "b": "a mance da albasa",
+            "c": "a mance da lawashi"
+        },
+        "20": {
+            "a": "sai mugun gwamna",
+            "b": "sai mugun ɗan majalissa",
+            "c": "sai mugun bafade"
+        },
+        "21": {
+            "a": "hannun agogo baya",
+            "b": "tuwon sarki cikin tukunya",
+            "c": "alkyarbar sarki baya"
+        },
+        "22": {
+            "a": "waiwayen baya",
+            "b": "susar ɗuwawu",
+            "c": "gurgun mutum"
+        },
+        "23": {
+            "a": "cikin taguwa",
+            "b": "cikin buhu",
+            "c": "cikin jaka"
+        },
+        "24": {
+            "a": "ranar tafiya",
+            "b": "ranar shan ruwa",
+            "c": "ranar suna"
+        },
+        "25": {
+            "a": "saboda anga hadari",
+            "b": "ta waje ba ta shigo ba",
+            "c": "saboda ƙishirwa"
+        },
+        "26": {
+            "a": "saboda amfanin ta",
+            "b": "in ta bare sai gida",
+            "c": "saboda tana sa aiki"
+        },
+        "27": {
+            "a": "da mai agalemi",
+            "b": "da mai wasa da biri",
+            "c": "da mai wasa da damisa"
+        },
+        "28": {
+            "a": "da takalmi",
+            "b": "sai da tsani",
+            "c": "sai da takalmi"
+        },
+        "29": {
+            "a": "sai da shegu",
+            "b": "sai da magoya baya",
+            "c": "sai dai manyan yan duniya"
+        },
+        "30": {
+            "a": "lissafi yayi gaskiya",
+            "b": "rashin lissafi bai yi ba",
+            "c": "sai da ilimi abin da ake son yi"
+        },
+        "31": {
+            "a": "kuɗin auren",
+            "b": "zaman auren",
+            "c": "samo budurwar"
+        },
+        "32": {
+            "a": "da na kai ta ɗakin kwana",
+            "b": "da na kwana a gida",
+            "c": "da na yi bacci a titi"
+        },
+        "33": {
+            "a": "in ji ɗan kishiya",
+            "b": "in ji ɗan uba",
+            "c": "in ji maraya"
+        }
+    },
+    {
+        "0": "idonsa a buɗe",
+        "1": "idonsa a buɗe",
+        "2": "kwashe duka",
+        "3": "cin mushe kai",
+        "4": "sanyin jiki",
+        "5": "an ta da kai",
+        "6": "da jini",
+        "7": "harshe da haƙori",
+        "8": "nono a ruga",
+        "9": "da haragido",
+        "10": "da bayan hannu",
+        "11": "an danne bodari ta ka",
+        "12": "kurciya baka",
+        "13": "ke saƙar ba",
+        "14": "a masaki",
+        "15": "sai an sha harbi",
+        "16": "suna",
+        "17": "zai tsutsa ba",
+        "18": "sai ya shekara da yatsu",
+        "19": "a mance da albasa",
+        "20": "sai mugun bafade",
+        "21": "hannun agogo baya",
+        "22": "susar ɗuwawu",
+        "23": "cikin jaka",
+        "24": "ranar tafiya",
+        "25": "ta waje ba ta shigo ba",
+        "26": "in ta bare sai gida",
+        "27": "da mai agalemi",
+        "28": "sai da tsani",
+        "29": "sai da magoya baya",
+        "30": "sai da ilimi abin da ake son yi",
+        "31": "kuɗin auren",
+        "32": "da na kai ta ɗakin kwana",
+        "33": "in ji maraya"
+    }
+]
